@@ -1,0 +1,8 @@
+FNAME,LNAME,AGE,ADDRESS,CITY,STATE,COUNTRY
+tim, jones, 77,  123 Lift Street, Bulbury, Cornwall, UK
+kames, yamster, 03,555-4 Straighton Drive, York, UK              ### <=== this line is broken, so it will be skipped
+jim,patron,29,8 Infinity Lane,Vancounver,BC,Canada
+alfred,haroldson,,433 Simpleton Way,New York,NY,USA
+yew,   hem,  -34, 45 Cross Avenue, Quebec City, Quebec, Canada   ### <=== this line is also broken, so it will also be skipped
+thomas, feinstein,62, 220 Colour Blockway, SD, Bismarck,USA
+shannon,,27, 15 Blokeguild, Cumbria, Erbineshire,New Zealand
